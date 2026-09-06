@@ -1,0 +1,24 @@
+{
+  "schema": "psx.redump-disc-set.v1",
+  "discs": [
+    {
+      "index": 1,
+      "cue_name": "Threads of Fate (USA, Canada).cue",
+      "bin_name": "Threads of Fate (USA, Canada).bin",
+      "size": 357454608,
+      "md5": "bf49e5e7a09acc46625b5ced33dd45f5",
+      "sha1": "375e4a344c4feef969bef6042ff1f90e350fa5d5",
+      "crc32": "59b2f8a3",
+      "track_count": 1,
+      "tracks": [
+        {
+          "name": "Threads of Fate (USA, Canada).bin",
+          "size": "357454608",
+          "crc": "59b2f8a3",
+          "md5": "bf49e5e7a09acc46625b5ced33dd45f5",
+          "sha1": "375e4a344c4feef969bef6042ff1f90e350fa5d5"
+        }
+      ]
+    }
+  ]
+}
